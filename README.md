@@ -1,4 +1,4 @@
-Comic-Book-Plugin
+Comic Book Plugin
 =================
 
 A sleek comic book display grid plugin that'll make you want to lick it. (Use in chrome for best results)
